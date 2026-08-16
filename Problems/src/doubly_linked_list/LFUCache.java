@@ -1,4 +1,4 @@
-package doublylinkedlist;
+package doubly_linked_list;
 
 /*
 import java.util.*;
